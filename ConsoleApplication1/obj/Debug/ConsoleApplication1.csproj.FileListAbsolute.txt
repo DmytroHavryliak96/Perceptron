@@ -1,0 +1,15 @@
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторна 1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторна 1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторна 1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторна 1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторна 1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторна 1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторна 1\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.dll
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторна 1\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторна 1\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework6.Npgsql.dll
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторна 1\ConsoleApplication1\ConsoleApplication1\bin\Debug\Npgsql.dll
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторна 1\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.xml
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторна 1\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторна 1\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework6.Npgsql.xml
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторна 1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Form1.resources
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторна 1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
